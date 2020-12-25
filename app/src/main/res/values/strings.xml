@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MenuOrder App</string>
+    <string name="order">Order</string>
+    <string name="cart">Cart</string>
+    <string name="food_image">Food Image</string>
+    <string name="delete_all">Delete All</string>
+    <string name="proceed">Proceed</string>
+    <string name="minus_button">Minus Button</string>
+    <string name="add_button">Plus Button</string>
+
+</resources>

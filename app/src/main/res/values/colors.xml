@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFE177</color>
+    <color name="colorPrimaryDark">#FFE177</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color  name="main_color">#FFE177</color>
+    <color name="background">#FAFAFA</color>
+    <color name="gray">#D8D8D8</color>
+    <color name="selected">#457B9D</color>
+    <color name="food_text_color">#5A5A5A</color>
+    <color name="light_black">#2B2B2B</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>
